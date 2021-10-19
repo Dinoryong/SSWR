@@ -26,3 +26,7 @@ TIL basecamp
 3. React JavaScript
 - React : 리액트를 다루는 기술 Chp 05,06
 - JavaScript : 모던 자바스크립트 Deep Dive Chp 01,02
+
+4. System Design
+- Grokking the System Design 
+ - system design problems : Requirements clarifications, Back-of-the-envelope estimation, System interface definition
