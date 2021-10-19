@@ -22,6 +22,7 @@ TIL basecamp
  - TCP vs UDP
  
  [Networking_Interview_Questions_Trello](https://trello.com/b/7WjG5JJG/network-interview-questions)
+ - [Udemy Networking course](https://www.udemy.com/course/it-networking-fundamentals/) Chp. 01, 02, 03, 04, 05
 
 3. React JavaScript
 - React : 리액트를 다루는 기술 Chp 05,06
