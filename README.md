@@ -28,5 +28,4 @@ TIL basecamp
 - JavaScript : 모던 자바스크립트 Deep Dive Chp 01,02
 
 4. System Design
-- Grokking the System Design 
- - system design problems : Requirements clarifications, Back-of-the-envelope estimation, System interface definition
+- system design problems : Requirements clarifications, Back-of-the-envelope estimation, System interface definition
