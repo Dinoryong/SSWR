@@ -7,11 +7,11 @@ TIL basecamp
 
 1. ALGORITHM : Simulation
 
-[LeetCode_132-pattern](https://leetcode.com/problems/132-pattern/)
+[LeetCode_132-pattern](https://leetcode.com/problems/132-pattern/) : [my solution]
 
-[프로그래머스_공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391)
+[프로그래머스_공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391) : [my_solution]
 
-[프로그래머스_퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)
+[프로그래머스_퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021) : [my_solution]
 
 2. CS
  - HTTP & HTTPS
@@ -30,3 +30,8 @@ TIL basecamp
 
 4. System Design
 - system design problems : Requirements clarifications, Back-of-the-envelope estimation, System interface definition
+
+5. Articles
+- []()
+- []()
+- []()
