@@ -22,3 +22,7 @@ TIL basecamp
  - TCP vs UDP
  
  [Networking_Interview_Questions_Trello](https://trello.com/b/7WjG5JJG/network-interview-questions)
+
+3. React JavaScript
+- React : 리액트를 다루는 기술 Chp 05,06
+- JavaScript : 모던 자바스크립트 Deep Dive Chp 01,02
