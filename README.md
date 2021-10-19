@@ -1,9 +1,9 @@
 # SSWR
-Slow and Steady Wins the Race
+*Slow and Steady Wins the Race*
 
 TIL basecamp
 <hr/>
-21.10.18 - 21.10.24 (see hashnode posting)
+21.10.18 - 21.10.24 (hashnode posting)
 
 1. ALGORITHM : Simulation
 
