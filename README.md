@@ -32,6 +32,39 @@ TIL basecamp
 - system design problems : step by step guide
 
 5. Articles
-- []()
-- []()
-- []()
+- [GoodReads]()
+
+
+<hr/>
+21.10.25 - 21.10.30
+
+1. Algorithm (DFS)
+
+[LeetCode_]
+[프로그래머스_]
+[프로그래머스_]
+[프로그래머스_]
+
+
+2. CS (Network)
+ - DNS Round
+ - 웹 통신의 큰 흐름
+ - 흐름 제어 & 혼잡 제어 & 오류 제어
+ - OSI 7계층
+ - Blockinig & Non-Blocking I/O
+ - Load Balancing
+ 
+ [Networking_Interview_Questions_Trello](https://trello.com/b/7WjG5JJG/network-interview-questions)
+ - [Udemy Networking course](https://www.udemy.com/course/it-networking-fundamentals/) Chp. 06, 07, 08, 09,
+
+3. React JavaScript
+- React : 리액트를 다루는 기술 [Chp 07] 
+
+
+4. System Design
+- system design problems : Designing a URL Shortening service like TinyURL
+
+5. Articles
+- [GoodReads_2021_10]()
+
+
