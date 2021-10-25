@@ -40,10 +40,10 @@ TIL basecamp
 
 1. Algorithm (DFS)
 
-[LeetCode_]
-[프로그래머스_]
-[프로그래머스_]
-[프로그래머스_]
+[LeetCode_Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) : [my solution]
+[프로그래머스_위클리](https://programmers.co.kr/learn/courses/30/lessons/86971) : [my solution]
+[프로그래머스_월코챌](https://programmers.co.kr/learn/courses/30/lessons/1837) : [my solution]
+[LeetCode_Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) : [my solution]
 
 
 2. CS (Network)
