@@ -93,8 +93,9 @@ TIL basecamp
 - 소프트웨어공학
 - 정보보호론
 
-6. GoodReads
+6. Articles
 - 금융 IT 시사 자료 : 금융결제원, IBK경제연구소
+- [GoodReads_2021_11]
 
 7. Interview Questions
 - []
