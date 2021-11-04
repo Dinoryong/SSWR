@@ -78,16 +78,20 @@ TIL basecamp
 
 2. CS - Networks
 - Trello 완성하기
+- [Udemy Networking course](https://www.udemy.com/course/it-networking-fundamentals/) Chp. 10
 
 3. CS - Operating Systems
 - Trello 완성하기
 
-4. CS - 이론서 & 객관식
+4. CS - Database
+- [Udemy Database course](https://www.udemy.com/course/database-engines-crash-course/) Chp. 2 - 17
+
+5. CS - 이론서 & 객관식
+- 구 정처기 
 - 컴퓨터일반
 - 전자계산기구조
 - 소프트웨어공학
 - 정보보호론
-- 구 정처기
 
-5. GoodReads
+6. GoodReads
 - 금융 IT 시사 자료 : 금융결제원, IBK경제연구소,  
