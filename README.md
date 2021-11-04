@@ -94,4 +94,7 @@ TIL basecamp
 - 정보보호론
 
 6. GoodReads
-- 금융 IT 시사 자료 : 금융결제원, IBK경제연구소,  
+- 금융 IT 시사 자료 : 금융결제원, IBK경제연구소
+
+7. Interview Questions
+- []
