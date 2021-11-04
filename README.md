@@ -67,4 +67,27 @@ TIL basecamp
 5. Articles
 - [GoodReads_2021_10]()
 
+<hr/>
+21.10.31 - 21.11.06
 
+1. Algorithm - Graph
+- [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) [my solution](
+- [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) [my solution](
+- [LeetCode_Reorder Routes to Make All Paths Lead to the City Zero
+](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) [my solution](
+
+2. CS - Networks
+- Trello 완성하기
+
+3. CS - Operating Systems
+- Trello 완성하기
+
+4. CS - 이론서 & 객관식
+- 컴퓨터일반
+- 전자계산기구조
+- 소프트웨어공학
+- 정보보호론
+- 구 정처기
+
+5. GoodReads
+- 금융 IT 시사 자료 : 금융결제원, IBK경제연구소,  
