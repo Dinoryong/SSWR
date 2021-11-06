@@ -101,7 +101,7 @@ TIL basecamp
 - []
 - []
 
-8. posts
+8. short block of this week
 <details>
 <summary>Click to toggle contents of this week</summary>
 공부가 아니라 "훈련"이다
