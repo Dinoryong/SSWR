@@ -100,3 +100,13 @@ TIL basecamp
 7. Interview Questions
 - []
 - []
+
+8. posts
+<details>
+<summary>Click to toggle contents of this week</summary>
+```
+공부가 아니라 "훈련"이다
+ 시각화 , 바디 랭귀지 다 써가면서 전체 흐름을 그림 그리듯이 설명하기
+ 
+```
+</details>
