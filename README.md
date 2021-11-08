@@ -65,16 +65,18 @@ TIL basecamp
 - system design problems : Designing a URL Shortening service like TinyURL
 
 5. Articles
-- [GoodReads_2021_10]()
+- [Goodreads_2021_10](https://github.com/Dinoryong/Goodreads/blob/main/2021.10.md)
 
 <hr/>
 21.10.31 - 21.11.06
 
 1. Algorithm - Graph
-- [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) [my solution](
-- [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) [my solution](
+- [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) => [my solution](
+- [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) => [my solution](
 - [LeetCode_Reorder Routes to Make All Paths Lead to the City Zero
-](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) [my solution](
+](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) => [my solution](
+- [LeetCode_Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [my solution]()
+- [LeetCode_Combination Sum](https://leetcode.com/problems/combination-sum/) => [my solution]()
 
 2. CS - Networks
 - Trello 완성하기
@@ -95,11 +97,10 @@ TIL basecamp
 
 6. Articles
 - 금융 IT 시사 자료 : 금융결제원, IBK경제연구소
-- [GoodReads_2021_11]
+- [Goodreads_2021_11](https://github.com/Dinoryong/Goodreads/blob/main/2021.11.md)
 
 7. Interview Questions
-- []
-- []
+- [cs 1](https://garden1500.tistory.com/11)
 
 8. short block of this week
 <details>
@@ -111,5 +112,38 @@ TIL basecamp
 </details>
 
 9. Issues 
+- [내부 단편화 해결책, 외부 단편화 해결책]
+
+<hr/>
+2021.11.07 - 2021.11.14
+
+1. Algorithm
+- [LeetCode_Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) => [my solution]
+- [LeetCode_Majority Element](https://leetcode.com/problems/majority-element/) => [my solution]
 
 
+2. CS - Operating Systems
+-
+
+3. CS - Networks
+-
+
+4. CS - Database
+-
+
+5. React
+- 
+
+6. Articles
+- [Goodreads_2011_11](https://github.com/Dinoryong/Goodreads/blob/main/2021.11.md)
+
+7. Interview Questions
+-
+
+8. Short block of this week
+<details>
+ <summary>Click to toggle contents of this week</summary>
+</details>
+
+9. Issues
+- [md file 을 git 에 commit할 떄 ₩title_.md file₩ 이 자동생성되는 문제]
