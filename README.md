@@ -3,7 +3,7 @@
 
 TIL basecamp
 <hr/>
-21.10.18 - 21.10.24 (hashnode posting)
+21.10.18 - 21.10.24
 
 1. ALGORITHM : Simulation
 
@@ -32,7 +32,7 @@ TIL basecamp
 - system design problems : step by step guide
 
 5. Articles
-- [GoodReads_2021_10]
+- [GoodReads_2021_10](https://github.com/Dinoryong/Goodreads/blob/main/2021.10.md)
 
 
 <hr/>
@@ -40,10 +40,10 @@ TIL basecamp
 
 1. Algorithm (DFS)
 
-- [LeetCode_Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) : [my solution]
+- [LeetCode_Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) : [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/is-graph-bipartite/is-graph-bipartite.py)
 - [프로그래머스_위클리](https://programmers.co.kr/learn/courses/30/lessons/86971) : [my solution]
 - [프로그래머스_월코챌](https://programmers.co.kr/learn/courses/30/lessons/1837) : [my solution]
-- [LeetCode_Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) : [my solution]
+- [LeetCode_Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) : [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/deepest-leaves-sum/deepest-leaves-sum.py)
 
 
 2. CS (Network)
@@ -58,7 +58,7 @@ TIL basecamp
  - [Udemy Networking course](https://www.udemy.com/course/it-networking-fundamentals/) Chp. 06, 07, 08, 09,
 
 3. React JavaScript
-- React : 리액트를 다루는 기술 [Chp 07] 
+- React : 리액트를 다루는 기술 [Chp 07]
 
 
 4. System Design
@@ -75,8 +75,8 @@ TIL basecamp
 - [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) => [my solution](
 - [LeetCode_Reorder Routes to Make All Paths Lead to the City Zero
 ](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) => [my solution](
-- [LeetCode_Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [my solution]()
-- [LeetCode_Combination Sum](https://leetcode.com/problems/combination-sum/) => [my solution]()
+- [LeetCode_Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/group-anagrams/group-anagrams.py)
+- [LeetCode_Combination Sum](https://leetcode.com/problems/combination-sum/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/combination-sum/combination-sum.py)
 
 2. CS - Networks
 - Trello 완성하기
