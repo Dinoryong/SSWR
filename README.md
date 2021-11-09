@@ -90,7 +90,7 @@ TIL basecamp
 
 5. CS - 이론서 & 객관식
 - 구 정처기 
-- 컴퓨터일반
+- 컴퓨터일반 : [C언어](https://dojang.io/mod/page/view.php?id=8)
 - 전자계산기구조
 - 소프트웨어공학
 - 정보보호론
@@ -134,7 +134,7 @@ TIL basecamp
 -
 
 5. React
-- 
+- [리액트를 다루는 기술]
 
 6. Articles
 - [Goodreads_2011_11](https://github.com/Dinoryong/Goodreads/blob/main/2021.11.md)
