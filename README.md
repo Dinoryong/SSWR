@@ -138,6 +138,7 @@ TIL basecamp
 
 6. Articles
 - [Goodreads_2011_11](https://github.com/Dinoryong/Goodreads/blob/main/2021.11.md)
+- [Goodreads_운영체제와 정보기술의 원리]
 
 7. Interview Questions
 -
