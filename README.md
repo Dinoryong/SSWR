@@ -74,7 +74,7 @@ TIL basecamp
 - [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) => [my solution](
 - [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) => [my solution](
 - [LeetCode_Reorder Routes to Make All Paths Lead to the City Zero
-](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) => [my solution](
+](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py)
 - [LeetCode_Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/group-anagrams/group-anagrams.py)
 - [LeetCode_Combination Sum](https://leetcode.com/problems/combination-sum/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/combination-sum/combination-sum.py)
 
