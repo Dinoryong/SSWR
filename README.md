@@ -71,8 +71,8 @@ TIL basecamp
 21.10.31 - 21.11.06
 
 1. Algorithm - Graph
-- [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) => [my solution](
-- [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) => [my solution](
+- [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) => [my solution](https://github.com/Dinoryong/Problem-Solving/blob/main/PROGRAMMERS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)
+- [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) => [my solution](https://github.com/Dinoryong/Problem-Solving/blob/main/PROGRAMMERS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%94%BC%EB%A1%9C%EB%8F%84.py)
 - [LeetCode_Reorder Routes to Make All Paths Lead to the City Zero
 ](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py)
 - [LeetCode_Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/group-anagrams/group-anagrams.py)
