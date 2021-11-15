@@ -4,7 +4,8 @@
 TIL basecamp
 <hr/>
 21.10.18 - 21.10.24
-
+<details>
+	<summary> click </summary>
 1. ALGORITHM : Simulation
 
 - [LeetCode_132-pattern](https://leetcode.com/problems/132-pattern/) : [my solution]
@@ -33,6 +34,9 @@ TIL basecamp
 
 5. Articles
 - [GoodReads_2021_10](https://github.com/Dinoryong/Goodreads/blob/main/2021.10.md)
+
+</details>
+
 
 
 <hr/>
