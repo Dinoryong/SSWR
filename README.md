@@ -152,8 +152,37 @@ TIL basecamp
 - [md file 을 git 에 commit할 떄 ₩title_.md file₩ 이 자동생성되는 문제]
 
 <hr/>
-1. Algorithm
-- [BOJ14620_꽃길](https://www.acmicpc.net/problem/14620)
-- [LeetCode_]()
+21.11.14 - 21.11.21
 
-2.
+1. Alogorithm - DFS
+- [LeetCode_Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [LeetCode_Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [LeetCode_]
+- [프로그래머스_]
+- [프고르매서스_]
+- [BOJ14620_꽃길](https://www.acmicpc.net/problem/14620)
+- [BOJ]
+
+2. CS 
+- Operating Systems :
+
+3. Frontend
+- JavaScript : `모던 자바스크립트 Deep Dive`
+
+4. Interview Questions
+- 
+
+5. Issues
+- 
+
+6. Articles
+- [Goodreads_2021_11](https://github.com/Dinoryong/Goodreads/blob/main/2021/2021.11.md)
+
+7. Short block of this week
+<details>
+	<summary>Click to toggle contents </summary>
+</details>
+
+<hr/>
+
+
