@@ -42,7 +42,9 @@ TIL basecamp
 <hr/>
 21.10.25 - 21.10.30
 
-1. Algorithm (DFS)
+<details>
+	<summary>click</summary>
+	1. Algorithm (DFS)
 
 - [LeetCode_Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) : [my solution](https://github.com/Dinoryong/leet-code-challenge/blob/main/is-graph-bipartite/is-graph-bipartite.py)
 - [프로그래머스_위클리](https://programmers.co.kr/learn/courses/30/lessons/86971) : [my solution]
@@ -71,10 +73,15 @@ TIL basecamp
 5. Articles
 - [Goodreads_2021_10](https://github.com/Dinoryong/Goodreads/blob/main/2021.10.md)
 
+</details>
+
+
 <hr/>
 21.10.31 - 21.11.06
 
-1. Algorithm - Graph
+<details>
+	<summary>click</summary>
+	1. Algorithm - Graph
 - [프로그래머스_괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) => [my solution](https://github.com/Dinoryong/Problem-Solving/blob/main/PROGRAMMERS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)
 - [프로그래머스_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) => [my solution](https://github.com/Dinoryong/Problem-Solving/blob/main/PROGRAMMERS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%94%BC%EB%A1%9C%EB%8F%84.py)
 - [LeetCode_Reorder Routes to Make All Paths Lead to the City Zero
@@ -118,10 +125,14 @@ TIL basecamp
 9. Issues 
 - [내부 단편화 해결책, 외부 단편화 해결책]
 
+</details>
 <hr/>
-2021.11.07 - 2021.11.13
 
-1. Algorithm
+
+2021.11.07 - 2021.11.13
+<details>
+	<summary>click</summary>
+	1. Algorithm
 - [LeetCode_Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) => [my solution]
 - [LeetCode_Majority Element](https://leetcode.com/problems/majority-element/) => [my solution]
 - [LeetCode_Network Delay Time](https://leetcode.com/problems/network-delay-time/)
@@ -154,11 +165,14 @@ TIL basecamp
 
 9. Issues
 - [md file 을 git 에 commit할 떄 ₩title_.md file₩ 이 자동생성되는 문제]
-
+</details>
 <hr/>
-21.11.14 - 21.11.21
 
-1. Alogorithm - DFS
+
+21.11.14 - 21.11.21
+<details>
+	<summary>click</summary>
+	1. Alogorithm - DFS
 - [LeetCode_Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [LeetCode_Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [LeetCode_]
@@ -187,6 +201,7 @@ TIL basecamp
 	<summary>Click to toggle contents </summary>
 </details>
 
+</details>
 <hr/>
 
 
