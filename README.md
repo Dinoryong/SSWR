@@ -186,10 +186,11 @@ TIL basecamp
 - Operating Systems :
 
 3. Frontend
-- JavaScript : `모던 자바스크립트 Deep Dive`
+- JavaScript : `모던 자바스크립트 Deep Dive` Chp 01 - 07
 
 4. Interview Questions
-- 
+- Mac
+- Git
 
 5. Issues
 - 
