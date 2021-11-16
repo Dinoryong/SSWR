@@ -196,13 +196,14 @@ TIL basecamp
 
 6. Articles
 - [Goodreads_2021_11](https://github.com/Dinoryong/Goodreads/blob/main/2021/2021.11.md)
+- [Goodreads_Modern JavaScript Deep Dive](https://github.com/Dinoryong/Goodreads/blob/main/2021/Modern%20JavaScript%2C%20Deep%20Dive.md)
 
 7. Short block of this week
 <details>
 	<summary>Click to toggle contents </summary>
+	SQLD test pass
 </details>
 
-</details>
 <hr/>
 
 
