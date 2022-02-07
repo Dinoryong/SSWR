@@ -14,8 +14,8 @@
   
 
 - Data Structure 1
-  - [704. Binary Search](https://leetcode.com/problems/binary-search/)
-  - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -> [my sol](https://github.com/Dinoryong/leet-code-challenge/blob/main/217-contains-duplicate/217-contains-duplicate.py)
+  - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) -> [my sol](
 
 - Algorithm 1
   - [704. Binary Search](https://leetcode.com/problems/binary-search/)
