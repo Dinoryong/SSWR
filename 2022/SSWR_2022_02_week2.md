@@ -27,7 +27,7 @@
 
 
 
-- [프로그래머스_1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+- [프로그래머스_1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) -> [my sol](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py)
 - [프로그래머스_1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [프로그래머스_부족한 금액 계산하기](https://github.com/Dinoryong/PS/commit/b644c4111449079547aaab4d32b4e6ac7d149d92)
 - [프로그래머스_동물의 아이디와 이름]()
