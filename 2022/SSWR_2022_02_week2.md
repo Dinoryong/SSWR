@@ -16,11 +16,20 @@
 - Data Structure 1
   - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -> [my sol](https://github.com/Dinoryong/leet-code-challenge/blob/main/217-contains-duplicate/217-contains-duplicate.py)
   - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) -> [my sol](
+  - [1. Two Sum](https://leetcode.com/problems/two-sum/)
+  - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 - Algorithm 1
   - [704. Binary Search](https://leetcode.com/problems/binary-search/)
   - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
   - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+  - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - 
 - 파이썬 100제
   - 변수, 자료형, 연산자, 조건문, 반복문
   - 배열, 함수
