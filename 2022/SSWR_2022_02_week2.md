@@ -15,7 +15,7 @@
 
 - Data Structure 1
   - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -> [my sol](https://github.com/Dinoryong/leet-code-challenge/blob/main/217-contains-duplicate/217-contains-duplicate.py)
-  - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) -> [my sol](
+  - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) -> [my sol](https://github.com/Dinoryong/PS/blob/main/leetcode/53.%20Maximum%20Subarray.py)
   - [1. Two Sum](https://leetcode.com/problems/two-sum/)
   - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
