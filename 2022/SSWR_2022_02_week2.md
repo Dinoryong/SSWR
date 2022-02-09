@@ -22,7 +22,7 @@
   - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 - Algorithm 1
-  - [704. Binary Search](https://leetcode.com/problems/binary-search/)
+  - [704. Binary Search](https://leetcode.com/problems/binary-search/) [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/704.%20Binary%20Search.py)
   - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
   - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
