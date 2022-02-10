@@ -14,11 +14,11 @@
   
 
 - Data Structure 1
-  - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -> [my sol](https://github.com/Dinoryong/leet-code-challenge/blob/main/217-contains-duplicate/217-contains-duplicate.py)
-  - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) -> [my sol](https://github.com/Dinoryong/PS/blob/main/leetcode/53.%20Maximum%20Subarray.py)
-  - [1. Two Sum](https://leetcode.com/problems/two-sum/) -> [my sol](https://github.com/Dinoryong/PS/blob/main/leetcode/1.%20Two%20Sum.py)
+  - [:white_check_mark:​](https://github.com/Dinoryong/leet-code-challenge/blob/main/217-contains-duplicate/217-contains-duplicate.py) [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/53.%20Maximum%20Subarray.py) [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/1.%20Two%20Sum.py) [1. Two Sum](https://leetcode.com/problems/two-sum/) 
   - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-  - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/350.%20Intersection%20of%20Two%20Arrays%20II.py) [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
   - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 - Algorithm 1
@@ -36,10 +36,10 @@
 
 
 
-- [프로그래머스_1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) -> [my sol](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py)
-- [프로그래머스_1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
-- [프로그래머스_부족한 금액 계산하기](https://github.com/Dinoryong/PS/commit/b644c4111449079547aaab4d32b4e6ac7d149d92)
-- [프로그래머스_동물의 아이디와 이름]()
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py) [프로그래머스_1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py) [프로그래머스_1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [프로그래머스_부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+- [프로그래머스_동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)
 - [프로그래머스_나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 - [프로그래머스_최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
 - [프로그래머스_어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)
