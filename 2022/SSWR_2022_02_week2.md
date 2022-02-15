@@ -14,26 +14,35 @@
   
 
 - Data Structure 1
-  - [704. Binary Search](https://leetcode.com/problems/binary-search/)
-  - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/leet-code-challenge/blob/main/217-contains-duplicate/217-contains-duplicate.py) [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/53.%20Maximum%20Subarray.py) [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/1.%20Two%20Sum.py) [1. Two Sum](https://leetcode.com/problems/two-sum/) 
+  - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/350.%20Intersection%20of%20Two%20Arrays%20II.py) [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 - Algorithm 1
-  - [704. Binary Search](https://leetcode.com/problems/binary-search/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/704.%20Binary%20Search.py) [704. Binary Search](https://leetcode.com/problems/binary-search/) 
   - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
   - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+  - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - 
 - 파이썬 100제
   - 변수, 자료형, 연산자, 조건문, 반복문
   - 배열, 함수
 
 
 
-- [프로그래머스_1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
-- [프로그래머스_1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
-- [프로그래머스_부족한 금액 계산하기](https://github.com/Dinoryong/PS/commit/b644c4111449079547aaab4d32b4e6ac7d149d92)
-- [프로그래머스_동물의 아이디와 이름]()
-- [프로그래머스_나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
-- [프로그래머스_최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
-- [프로그래머스_어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py) [프로그래머스_1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py) [프로그래머스_1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py) [프로그래머스_부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%20%EC%9D%B4%EB%A6%84.py) [프로그래머스_동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) [프로그래머스_나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%B5%9C%EC%86%8C%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py) [프로그래머스_최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%96%B4%EB%A6%B0%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.py) [프로그래머스_어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)
 - [프로그래머스_2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - [프로그래머스_아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)
 - [프로그래머스_두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
@@ -65,7 +74,7 @@
 - [프로그래머스_양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)
 - [프로그래머스_튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
-
+- [BOJ_ABCDE](https://www.acmicpc.net/problem/13023)
 
 
 
