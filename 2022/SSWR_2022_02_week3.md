@@ -4,6 +4,10 @@
 
 1. Algorithm
 
+- python
+  - count
+  - dictionary value 기준 sort
+
 - Leet Code Learn
 
   - [Stack & Queue](https://leetcode.com/explore/learn/card/queue-stack/)
