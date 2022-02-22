@@ -5,8 +5,10 @@
 1. Algorithm
 
 - python
-  - count
-  - dictionary value 기준 sort
+  - find
+
+- C ++
+  - pointer
 
 - Leet Code Learn
 
@@ -14,6 +16,8 @@
   - [Graph](https://leetcode.com/explore/learn/card/graph/)
   - [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
   - [Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/)
+  - [Array and String](https://leetcode.com/explore/learn/card/array-and-string/)
+  - [Recursion 1](https://leetcode.com/explore/learn/card/recursion-i/)
 
   
 
@@ -31,7 +35,6 @@
   - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - 
   
-- Java, C++ 문법
 
 - [프로그래머스_2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 
