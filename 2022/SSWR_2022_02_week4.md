@@ -86,28 +86,9 @@
 
 
 
-2. Operting Systems
-
-- 쉽게 배우는 운영체제 - repo 질문 답 찾으면서 읽고 trello에 정리
-
-
-
-3. Networks
-
-- Trello 시뮬해보기
-
-
-
-4. Frontend
-
-- JS : JS Fundamentals part 1,2,3 notes
-- React : Chp 01,02
-
-
-
-5. Goodreads
+2. Goodreads
 
 - 부스트 코스 AI 코칭 스터디 : 총 정리하기
-- 서류 작성 : template, 서류 3개 완성, 미리 리스트업
+- 서류 작성 : template 완성, 서류 3개 완성, 미리 리스트업, 첨삭 3번 
   
 - Adsp : 토요일 시험
