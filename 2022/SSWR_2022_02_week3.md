@@ -50,7 +50,7 @@
 - [프로그래머스_K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [프로그래머스_완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 - [프로그래머스_소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
-- [프로그래머스_내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%82%B4%EC%A0%81.py) [프로그래머스_내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py) [프로그래머스_음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 - [프로그래머스_없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 - [프로그래머스_크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
