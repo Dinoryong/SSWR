@@ -20,6 +20,7 @@
 - Data Structure 1
   - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
   
 - Algorithm 1
   - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
