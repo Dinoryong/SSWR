@@ -31,7 +31,7 @@
   - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
   - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
-  - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/283.%20Move%20Zeroes.py) [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - [1060. Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)
   - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
