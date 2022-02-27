@@ -23,7 +23,7 @@
 
 - Data Structure 1
   - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-  - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
   
 - Algorithm 1
