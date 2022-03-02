@@ -68,7 +68,7 @@
 
 - [프로그래머스_없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 
-- [프로그래머스_크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py) [프로그래머스_크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
 - [프로그래머스_키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
