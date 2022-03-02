@@ -36,6 +36,7 @@
   - [1060. Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)
   - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
   - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+  - [:white_check_mark:​](https://github.com/Dinoryong/PS/blob/main/leetcode/566.%20Reshape%20the%20Matrix.py) [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
 - [프로그래머스_2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 
