@@ -76,7 +76,7 @@
 
 - [프로그래머스_신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 
-- [프로그래머스_로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
+- [:white_check_mark:​](https://github.com/Dinoryong/PS/commit/3ba2eb7262462fd6b085040549ce3e1da360c02f) [프로그래머스_로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
 - [프로그래머스_신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 
