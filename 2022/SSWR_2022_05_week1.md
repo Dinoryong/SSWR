@@ -1,4 +1,4 @@
-# SSWR_2022_05_week1
+# SSWR_2022_05_week4
 
 -----
 
@@ -10,7 +10,7 @@
 
 > f
 
-- 이번주는 focus on 
+- focus on 
 
 
 
