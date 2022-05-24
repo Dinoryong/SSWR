@@ -20,7 +20,7 @@
 | 5.23       | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)       |                           |                            |
 | 5.24       | [1469. Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)    |                           |                            |
 | 5.25       | [582. Kill Process](https://leetcode.com/problems/kill-process/)        |                           |                            |
-| 5.26       |         |                           |                            |
+| 5.26       | [394. Decode String](https://leetcode.com/problems/decode-string/)        |                           |                            |
 | 5.27       |         |                           |                            |
 | 5.28       |         |                           |                            |
 
