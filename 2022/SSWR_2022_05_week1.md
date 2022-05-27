@@ -21,9 +21,9 @@
 | 5.24       | [1469. Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)    |                           |                            |
 | 5.25       | [582. Kill Process](https://leetcode.com/problems/kill-process/)        |                           |                            |
 | 5.26       | [394. Decode String](https://leetcode.com/problems/decode-string/)        |                           |                            |
-| 5.27       |         |                           |                            |
-| 5.28       |         |                           |                            |
-
+| 5.27       | [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/)        |                           |                            |
+| 5.28       | [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)        |                           |                            |
+| plus      | [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)  |                            |                             |
 
 
 
